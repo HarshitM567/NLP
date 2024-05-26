@@ -39,9 +39,9 @@ def process_input(user_input):
 # Test the chatbot
 conversation = [
     "hi",
-    "my name is John",
+    "my name is Harshit",
     "order #0987654321",
-    "mobile +917654321576 email abc@mye.com",
+    "mobile +917877512055 email abc@mye.com",
     "4444 88888",
     "the product overheated after continuous usage of four hours"
 ]
